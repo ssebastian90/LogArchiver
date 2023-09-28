@@ -64,5 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project uses the `dateutil` library for date parsing.
 
 ---
-
-You can create a `README.md` file in your project directory and paste the above content into it. Customize it further to include installation instructions, usage examples, and any other relevant information specific to your project.
